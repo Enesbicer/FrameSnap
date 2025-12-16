@@ -21,7 +21,7 @@ A simple Python GUI tool to extract frames from video files using PyQt5 and Open
 
 1.  **Clone the repository** (or download the script):
     ```bash
-    git clone [https://github.com/Enesbicer/FrameSnap.git]
+    git clone https://github.com/Enesbicer/FrameSnap.git
     cd FrameSnap
     ```
 
