@@ -1,7 +1,7 @@
 
 # FrameSnap 🎥
 
-A simple Python GUI tool to extract frames from video files using PyQt5 and OpenCV.
+A simple Python GUI tool to extract frames from video files using PyQt5 and OpenCV. Can run on Windows, Macos or Linux.
 
 <img width="1119" height="816" alt="image" src="https://github.com/user-attachments/assets/e19e1d8e-a8e8-439f-8ca6-f3ae659295e0" />
 
