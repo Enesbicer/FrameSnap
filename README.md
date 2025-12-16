@@ -35,9 +35,9 @@ A simple Python GUI tool to extract frames from video files using PyQt5 and Open
 
 1.  Run the script:
     ```bash
-    python main.py
+    python Snap.py
     ```
-    *(Note: Replace `main.py` with the actual name of your python file if it is different).*
+
 
 2.  Click **"Open Video"** to select a video file.
 3.  Use the **Slider** at the bottom to scroll through the video frames.
